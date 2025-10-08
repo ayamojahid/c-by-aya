@@ -1,0 +1,6 @@
+Nom: Haddad       | Prenom: Sara       | Age: 22 | Note: 7.65 | Pays: France
+Nom: El Amrani    | Prenom: Youssef    | Age: 27 | Note: 9.10 | Pays: Maroc
+Nom: Tazi         | Prenom: Rania      | Age: 24 | Note: 8.23 | Pays: Canada
+Nom: Bennani      | Prenom: Amine      | Age: 21 | Note: 5.77 | Pays: Égypte
+Nom: Ait Lahcen   | Prenom: Aya        | Age: 30 | Note: 6.40 | Pays: Japon
+Nom: Aya          | Prenom: yi         | Age: 50 | Note: 5.90 | Pays: USA

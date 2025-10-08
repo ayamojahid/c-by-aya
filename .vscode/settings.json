@@ -58,6 +58,7 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
     "EX1.C": "cpp",
-    "GestionD'unePetiteBoutique.C": "cpp"
+    "GestionD'unePetiteBoutique.C": "cpp",
+    "stdio.h": "c"
   }
 }
